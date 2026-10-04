@@ -1,0 +1,60 @@
+# Psych Extended Engine Launcher — Terms of Service
+
+**Last Updated: October 4, 2026**
+
+By downloading, installing, or using the Psych Engine Launcher ("Launcher"), you agree to these Terms of Service.
+
+## 1. Description
+
+The Psych Engine Launcher is a third-party application designed to launch and manage installations of Psych Engine and related modifications. The Launcher is not affiliated with, endorsed by, or officially associated with the original Psych Engine developers, Discord, or other third-party services unless explicitly stated.
+
+## 2. Discord Rich Presence
+
+The Launcher may use Discord Rich Presence to display information about the user's current activity, such as:
+
+* The game or application currently being played
+* The song currently being played
+* Difficulty or other gameplay information
+* Elapsed or remaining activity time
+* Launcher or engine version information
+
+Discord Rich Presence functionality is provided through Discord's APIs and is subject to Discord's own terms and policies.
+
+The Launcher does not require access to the user's Discord account, password, messages, friends list, or private conversations to provide Rich Presence functionality.
+
+## 3. Third-Party Services
+
+The Launcher may interact with third-party services, including Discord, GitHub, or hosting services used to provide updates and downloads.
+
+Those services operate independently and may have their own terms, privacy policies, and requirements.
+
+## 4. Modifications and User Content
+
+The Launcher may allow users to install, manage, or launch third-party mods, scripts, and other content.
+
+The Launcher does not necessarily control or endorse third-party modifications. Users are responsible for ensuring that content they install is safe and complies with applicable licenses and laws.
+
+## 5. Updates
+
+The Launcher may check for available updates or new versions of the Launcher, Psych Engine installations, or related components.
+
+Updates may be downloaded automatically or with user confirmation depending on the Launcher's configuration.
+
+## 6. Disclaimer
+
+The Launcher is provided on an "as is" and "as available" basis. No guarantee is made that the Launcher will always function correctly, remain available, or be compatible with every system or modification.
+
+## 7. Changes
+
+These Terms may be updated from time to time. Continued use of the Launcher after changes are published constitutes acceptance of the updated Terms.
+
+## 8. Community
+
+Certain code/functions are created by a wide community of people. Anything another individual may have created, they'll be credited for their work.
+When trying to implement code from other people, do so AT YOUR OWN RISK. any code that Psych Extended Launcher uses is 100% safe, as I work hard to maintain safety with this Launcher/
+
+## 9. Contact
+
+For questions regarding these Terms, contact:
+
+**PsycExtendedLauncher@gmail.com**
