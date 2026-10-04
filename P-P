@@ -1,0 +1,67 @@
+# Psych Extended Engine Launcher — Privacy Policy
+
+**Last Updated: October 4, 2026**
+
+This Privacy Policy explains what information the Psych Extended Engine Launcher ("Launcher") collects, uses, and shares.
+
+## 1. Information We Collect
+
+The Launcher is designed to collect as little personal information as reasonably necessary.
+
+Depending on the features enabled, the Launcher may process:
+
+* Discord Rich Presence activity information
+* Psych Engine version information
+* Launcher version information
+* Game/mod information displayed through Rich Presence
+* Basic technical information required to download updates or content
+
+The Launcher does **not** intentionally collect Discord passwords, private messages, friends lists, or authentication tokens.
+
+## 2. Discord Rich Presence
+
+When Discord Rich Presence is enabled, the Launcher communicates with the Discord application running on the user's computer.
+
+The information displayed through Rich Presence may include the current game, song, difficulty, engine version, or other activity information selected by the Launcher.
+
+This information is intended to be displayed through Discord to people who can see the user's Discord activity according to their Discord privacy settings.
+
+## 3. Data Storage
+
+The Launcher does not intentionally store personal information collected through Discord Rich Presence.
+
+Configuration information, such as Launcher settings, installed engine locations, and user preferences, may be stored locally on the user's computer.
+
+## 4. Data Sharing
+
+The Launcher does not sell personal information.
+
+The Launcher does not intentionally transmit Discord account credentials, private Discord messages, or Discord authentication tokens to the developer.
+
+Information may be transmitted to third-party services when necessary to provide features such as downloading updates or checking for new versions.
+
+## 5. Third-Party Services
+
+The Launcher may use services operated by third parties, including Discord, GitHub, or other hosting providers.
+
+These services have their own privacy policies and data practices. Users should review the applicable policies of those services.
+
+## 6. Children's Privacy
+
+The Launcher is not specifically directed toward collecting personal information from children.
+
+Because the Launcher does not intentionally collect sensitive personal information, it is designed to minimize the amount of personal information processed.
+
+## 7. Security
+
+Reasonable measures are taken to avoid unnecessary collection or transmission of personal information. However, no software or internet transmission can be guaranteed to be completely secure.
+
+## 8. Changes to This Policy
+
+This Privacy Policy may be updated when the Launcher's features or data practices change. The updated version will include a new "Last Updated" date.
+
+## 9. Contact
+
+Questions regarding this Privacy Policy can be directed to:
+
+**PsychExtendedLauncher@gmail.com**
